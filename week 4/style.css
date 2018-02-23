@@ -1,0 +1,88 @@
+  
+    
+        table, td, th {
+        border: 2px solid black;
+        border-collapse: collapse;
+        }
+    
+ 
+        table {
+				width: 600px;
+                float: ri;
+        }
+        th, td {
+				padding: 7px 10px 10px 10px;}
+        th {
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
+				font-size: 90%;
+				border-bottom: 2px solid #111111;
+				border-top: 1px solid #999;
+				text-align: left;}
+        tr:hover {
+				background-color: #c3e6e5;}
+        th {
+            
+            text-decoration: none;
+            background-color: #ECF0F1;
+        
+        }    
+
+        body{
+        background-color: #acc7b8;
+        background-image: url(template/beauty.jpg);
+        
+        }
+
+
+a{ text-decoration: none;
+
+}
+
+
+.free{
+    background-color: #F9BF3B;
+    font-family: cursive;
+}
+
+
+.work{
+    background-color: #E26A6A;
+    font-family:fantasy;
+}
+
+
+.bus{
+    background-color: #AEA8D3;
+    font-family:monospace;
+}
+
+
+.mmp4{
+    background-color: #4183D7;
+    font-family:monospace;
+}
+
+.mea{
+    background-color: #03C9A9;
+     font-family:monospace;
+}
+
+.mmp2{
+    background-color: #81CFE0;
+     font-family:monospace;
+}
+
+div{
+   
+    background-color: black;
+    color: aliceblue;
+    float: left;
+}
+
+.text{ 
+    color: aliceblue
+}
+
+
+
